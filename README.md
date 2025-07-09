@@ -8,7 +8,9 @@
 
 
 This project demonstrates two implementations of a Reddit-like platform:
+
 <img src="https://github.com/sreeya336/reddit-engine-multimodel/blob/main/assets/reddit_logo.png?raw=true" width="150" alt="Reddit Logo">
+
 
 1. **Actor-Based Simulation** – Built using an actor model where users, posts, comments, and messages are modeled as asynchronous message-passing entities. It enables concurrency and tests distributed behavior by simulating multiple users interacting simultaneously.
 2. **REST API with RSA Security** – Developed in Go, this version provides a secure, interactive Reddit clone with support for user actions and RSA-2048 digital signature verification for integrity and authenticity.
