@@ -9,7 +9,10 @@
 
 This project demonstrates two implementations of a Reddit-like platform:
 
-<img src="https://github.com/sreeya336/reddit-engine-multimodel/blob/main/assets/reddit_logo.png?raw=true" width="120" alt="Reddit Logo">
+<p align="center">
+  <img src="https://github.com/sreeya336/reddit-clone-actor-vs-rest/blob/main/reddit-image.png?raw=true" width="150" alt="Reddit Logo">
+</p>
+
 
 
 
