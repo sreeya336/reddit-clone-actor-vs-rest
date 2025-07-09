@@ -9,7 +9,8 @@
 
 This project demonstrates two implementations of a Reddit-like platform:
 
-<img src="https://github.com/sreeya336/reddit-engine-multimodel/blob/main/assets/reddit_logo.png?raw=true" width="150" alt="Reddit Logo">
+<img src="https://github.com/sreeya336/reddit-engine-multimodel/blob/main/assets/reddit_logo.png?raw=true" width="120" alt="Reddit Logo">
+
 
 
 1. **Actor-Based Simulation** – Built using an actor model where users, posts, comments, and messages are modeled as asynchronous message-passing entities. It enables concurrency and tests distributed behavior by simulating multiple users interacting simultaneously.
